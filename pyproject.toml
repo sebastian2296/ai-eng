@@ -10,5 +10,5 @@ dependencies = [
     "openai",
     "pydantic",
     "pydantic-settings",
-    "streamlit"
+    "streamlit",
 ]
